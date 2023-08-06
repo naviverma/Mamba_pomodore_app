@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22F82" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Task" representedClassName="Task" syncable="YES">
+        <attribute name="category" optional="YES"/>
+        <attribute name="deadline" optional="YES"/>
+        <attribute name="importance" optional="YES"/>
+        <attribute name="task" optional="YES"/>
+    </entity>
+</model>
